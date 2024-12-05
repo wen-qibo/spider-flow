@@ -13,6 +13,9 @@
 
 [介绍](#介绍) | [特性](#特性) | [插件](#插件) | <a target="_blank" href="http://demo.spiderflow.org">DEMO站点</a> | <a target="_blank" href="https://www.spiderflow.org">文档</a> | <a target="_blank" href="https://www.spiderflow.org/changelog.html">更新日志</a> | [截图](#项目部分截图) | [其它开源](#其它开源项目) | [免责声明](#免责声明)
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwen-qibo%2Fspider-flow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwen-qibo%2Fspider-flow?ref=badge_large)
+
 ## 介绍
 平台以流程图的方式定义爬虫,是一个高度灵活可配置的爬虫平台
 
@@ -41,7 +44,8 @@
 
 ## 项目部分截图
 ### 爬虫列表
-![爬虫列表](https://images.gitee.com/uploads/images/2020/0412/104521_e1eb3fbb_297689.png "list.png")
+![爬虫列表](https://images.gitee.com/uploads/images/2020/0412/104521_e1eb3fbb_297689.png "list.png")[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwen-qibo%2Fspider-flow.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwen-qibo%2Fspider-flow?ref=badge_shield)
+
 ### 爬虫测试
 ![爬虫测试](https://images.gitee.com/uploads/images/2020/0412/104659_b06dfbf0_297689.gif "test.gif")
 ### Debug
